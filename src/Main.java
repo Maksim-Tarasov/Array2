@@ -40,7 +40,5 @@ public class Main {
             right--;
         }
         System.out.println(new String(reverseFullName));
-
-
     }
 }
